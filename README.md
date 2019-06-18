@@ -1,6 +1,6 @@
 # RetrofitHelper
 
-[![](https://img.shields.io/badge/release-1.0.0-blue.svg)](https://github.com/whimling/ResultHelper/releases) 
+[![](https://img.shields.io/badge/release-1.0.0-blue.svg)](https://github.com/yfbx/retrofit-helper/releases) 
 
 #### Add the dependency
 ```
@@ -11,7 +11,7 @@ repositories {
 
 ```
 dependencies {
-	implementation 'com.github.yfbx:RetrofitHelper:1.0.0'
+	implementation 'com.github.yfbx:retrofit-helper:1.0.0'
 }
 ```
 
