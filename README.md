@@ -1,6 +1,6 @@
 # RetrofitHelper
 
-[![](https://img.shields.io/badge/release-1.0.0-blue.svg)](https://github.com/yfbx/retrofit-helper/releases) 
+[![](https://img.shields.io/badge/release-1.0.0-blue.svg)](https://github.com/yfbx-repo/retrofit-helper/releases) 
 
 #### Add the dependency
 ```
